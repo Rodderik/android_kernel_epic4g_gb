@@ -1,0 +1,6 @@
+  CLEAN   scripts/basic
+  CLEAN   scripts/kconfig
+  CLEAN   scripts/mod
+  CLEAN   scripts
+  CLEAN   include/config include/generated
+  CLEAN   include/linux/version.h Module.symvers
