@@ -10,6 +10,9 @@ source "drivers/of/Kconfig"
 
 source "drivers/parport/Kconfig"
 
+# for TINY_FSR
+source "drivers/tfsr/Kconfig"
+
 source "drivers/pnp/Kconfig"
 
 source "drivers/block/Kconfig"
