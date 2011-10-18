@@ -67,7 +67,6 @@ obj-$(CONFIG_MACH_VICTORY)	+= aries-watchdog.o
 obj-$(CONFIG_MACH_VICTORY)	+= aries-panel.o
 obj-$(CONFIG_MACH_VICTORY)	+= max8893_consumer.o
 obj-$(CONFIG_MACH_VICTORY)      += sec_switch.o
-obj-$(CONFIG_MACH_VICTORY)	+= dev-aries-phone.o
 
 obj-$(CONFIG_CPU_FREQ)		+= cpu-freq.o
 obj-$(CONFIG_S5PV210_SETUP_SDHCI)       += setup-sdhci.o
